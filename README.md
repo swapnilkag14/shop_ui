@@ -7,14 +7,14 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+<p float="left">
+  <img src="https://github.com/swapnilkag14/shop_ui/blob/main/shop_flutter_image4.jpg" alt="Image 1" width="300" />
+  <img src="https://github.com/swapnilkag14/shop_ui/blob/main/shop_flutter_image2.jpg" alt="Image 2" width="300" />
+   <img src="https://github.com/swapnilkag14/shop_ui/blob/main/shop_flutter_image3.jpg" alt="Image 2" width="300" />
+   <img src="https://github.com/swapnilkag14/shop_ui/blob/main/shop_flutter_image.jpg" alt="Image 2" width="300" />
+</p>
 
-<img src="https://github.com/swapnilkag14/shop_ui/blob/main/shop_flutter_image4.jpg" alt="Home page" height="100" width="200">
 
-<img src="https://github.com/swapnilkag14/shop_ui/blob/main/shop_flutter_image3.jpg" alt="Selected Item page with particular size available" height="100" width="200">
-
-<img src="https://github.com/swapnilkag14/shop_ui/blob/main/shop_flutter_image2.jpg" alt="Cart Page" height="100" width="200">
-
-<img src="https://github.com/swapnilkag14/shop_ui/blob/main/shop_flutter_image.jpg" alt="Cart page with alert dialog box for delete item or not" height="100" width="200">
 
 
 
